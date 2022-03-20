@@ -1,4 +1,4 @@
-# Jamil_Porfolio
+# Jamil_Portfolio
 Example data analyst portfolio
   
 # Project 1: Analyzing Historical Stock/Revenue Data and Building a Dashboard: Project Overview
