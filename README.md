@@ -16,6 +16,4 @@ Example Data Analyst Portfolio
 * Exploratory Data Analysis
 * Model Development
 
-![](/images/regplot2.png)
-
 ![](/images/distribution%20plot.png)
