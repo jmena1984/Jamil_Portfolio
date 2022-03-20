@@ -7,7 +7,7 @@ Example Data Analyst Portfolio
 * Use yfinance to extract stock data
 * Plot Tesla stock graph
 
-![](https://github.com/jmena1984/Jamil_Portfolio/blob/main/images/newplot.png)
+![](/images/newplot.png)
 
 
 # [Project 2: Data Analysis with Python - House Sales in King County, USA: Project Overview](https://github.com/jmena1984/Data-Analyst-Projects/blob/main/Data%20Analysis%20with%20Python%20(Data%20Wrangling%20-%20Model%20Development).ipynb)
@@ -16,6 +16,6 @@ Example Data Analyst Portfolio
 * Exploratory Data Analysis
 * Model Development
 
-![](https://github.com/jmena1984/Jamil_Portfolio/blob/main/images/regplot2.png)
+![](/images/regplot2.png)
 
-![](https://github.com/jmena1984/Jamil_Portfolio/blob/main/images/distribution%20plot.png)
+![](/images/distribution%20plot.png)
