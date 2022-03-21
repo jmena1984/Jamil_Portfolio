@@ -7,7 +7,7 @@ Example Data Analyst Portfolio
 ![](/images/NEOVASCScamgraphic.png)
 
 
-# [Project 2: Data Wrangling / Cleaning U.S. Census Data: Project Overview](https://github.com/jmena1984/Data-Analyst-Projects/blob/main/Data%20Wrangling%20-%20U.S.%20Census.ipynb)
+# [Project 2: Data Wrangling / Cleaning / Tidy Data U.S. Census Data: Project Overview](https://github.com/jmena1984/Data-Analyst-Projects/blob/main/Data%20Wrangling%20-%20U.S.%20Census.ipynb)
 * Extract and merge 10 individual csv files from U.S Census
 * Data Wrangle and clean data
 * Ready for plotting and exporting
