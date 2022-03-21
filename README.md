@@ -4,7 +4,7 @@ Example Data Analyst Portfolio
 # [Project 1: Securities Exchange Commission Presentation: Project Overview](https://github.com/jmena1984/Data-Analyst-Projects/blob/main/SEC%20Presentation.pdf)
 * Presentation to the Securities Exchange Commission and to simultaneously warn retail investors from a publicly traded fraudulent company listed on the NASDAQ.
 
-![](/images/NEOVASC%20Scam%20graphic.png)
+![](https://github.com/jmena1984/Jamil_Portfolio/blob/main/images/NEOVASC%20Scam%20graphic.png)
 
 
 # [Project 2: Analyzing Historical Stock/Revenue Data and Building a Dashboard: Project Overview](https://github.com/jmena1984/Data-Analyst-Projects/blob/main/Extracting%20and%20Visualizing%20Stock%20Data.ipynb)
