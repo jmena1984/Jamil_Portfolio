@@ -12,7 +12,7 @@ Example Data Analyst Portfolio
 * Data Wrangle and clean data
 * Ready for plotting and exporting
 
-
+![](/images/U.S%20census%20hist.png)
 
 # [Project 2: Analyzing Historical Stock/Revenue Data and Building a Dashboard: Project Overview](https://github.com/jmena1984/Data-Analyst-Projects/blob/main/Extracting%20and%20Visualizing%20Stock%20Data.ipynb)
 * Extract the revenue data for Tesla and build a dashboard to compare the price of the stock vs the revenue
