@@ -14,7 +14,7 @@ Example Data Analyst Portfolio
 
 ![](/images/U.S%20census%20hist.png)
 
-# [Project 2: Analyzing Historical Stock/Revenue Data and Building a Dashboard: Project Overview](https://github.com/jmena1984/Data-Analyst-Projects/blob/main/Extracting%20and%20Visualizing%20Stock%20Data.ipynb)
+# [Project 3: Analyzing Historical Stock/Revenue Data and Building a Dashboard: Project Overview](https://github.com/jmena1984/Data-Analyst-Projects/blob/main/Extracting%20and%20Visualizing%20Stock%20Data.ipynb)
 * Extract the revenue data for Tesla and build a dashboard to compare the price of the stock vs the revenue
 * Use Webscraping to extract Tesla revenue data
 * Use yfinance to extract stock data
@@ -23,7 +23,7 @@ Example Data Analyst Portfolio
 ![](/images/newplot.png)
 
 
-# [Project 3: Data Analysis with Python - House Sales in King County, USA: Project Overview](https://github.com/jmena1984/Data-Analyst-Projects/blob/main/Data%20Analysis%20with%20Python%20(Data%20Wrangling%20-%20Model%20Development).ipynb)
+# [Project 4: Data Analysis with Python - House Sales in King County, USA: Project Overview](https://github.com/jmena1984/Data-Analyst-Projects/blob/main/Data%20Analysis%20with%20Python%20(Data%20Wrangling%20-%20Model%20Development).ipynb)
 * Importing Data Sets
 * Data Wrangling
 * Exploratory Data Analysis
