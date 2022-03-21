@@ -24,4 +24,4 @@ Example Data Analyst Portfolio
 
 ![](/images/regplot2.png)
 
-![](https://github.com/jmena1984/Jamil_Portfolio/blob/main/images/distributionplot.png)
+![](/main/images/distributionplot.png)
