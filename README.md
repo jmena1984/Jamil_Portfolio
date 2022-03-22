@@ -32,3 +32,7 @@ Example Data Analyst Portfolio
 ![](/images/regplot2.png)
 
 ![](/images/distributionplot.png)
+
+
+# [Project 6: Dashboard created with Tableau public: Project Overview](https://public.tableau.com/app/profile/jamil8209/viz/OfficeSupplyRevenuebyRegion/ProductLinePerformance#1)
+* Visualization of sales by region, products and sales representatives
