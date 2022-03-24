@@ -1,5 +1,6 @@
 # Jamil_Portfolio
-Sample Data Analyst Portfolio.  Click on links for further details.
+A portfolio highlighting Exploratory Data Analysis (EDA), Data Wrangling, Tidying, Mining, Visualization, and Modeling. 
+Click on links for further details.
 
   
 # [Project 1: Web Based Presentation to the U.S. Securities and Exchange Commission: Project Overview](https://github.com/jmena1984/Data-Analyst-Projects/blob/main/SEC%20Presentation.pdf)
