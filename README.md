@@ -36,6 +36,16 @@ Click on links for further details.
 ![](/images/distributionplot.png)
 
 
-# [Project 6: Story created with Tableau public: Project Overview](https://public.tableau.com/app/profile/jamil8209/viz/OfficeSupplyRevenuebyRegion/ProductLinePerformance#1)
+# [Project 6: Interactive Dashboard created with Tableau Public: Project Overview](https://public.tableau.com/app/profile/jamil8209/viz/DataVisualizationWithTableau_16480738547630/LondonBusSafetyDash?publish=yes)
+* Data visualiztion to assess number of incidents on London bus routes during a range of time.
+* Seeking to answer the following questions:
+  * Are some routes more prone than others?
+  * Is there a geographic region to the types of incidents?
+  * When do we see the most injuries?
+  * What kind of seasonality is expected?
+
+1[] (
+
+# [Project 7: Story created with Tableau public: Project Overview](https://public.tableau.com/app/profile/jamil8209/viz/OfficeSupplyRevenuebyRegion/ProductLinePerformance#1)
 * Visualization of sales by region, products and sales representatives
 ![](/images/Tableau.png)
