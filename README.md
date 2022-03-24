@@ -1,5 +1,7 @@
 # Jamil_Portfolio
-Example Data Analyst Portfolio
+Sample Data Analyst Portfolio
+![](/images/Tableau.png)
+
   
 # [Project 1: Web Based Presentation to the U.S. Securities and Exchange Commission: Project Overview](https://github.com/jmena1984/Data-Analyst-Projects/blob/main/SEC%20Presentation.pdf)
 * Presentation to the U.S. Securities and Exchange Commission and to simultaneously warn retail investors from a publicly traded fraudulent company listed on the NASDAQ.
