@@ -44,7 +44,7 @@ Click on links for further details.
   * When do we see the most injuries?
   * What kind of seasonality is expected?
 
-1[] (
+![](/images/LondonSafetyDashboard.png)
 
 # [Project 7: Story created with Tableau public: Project Overview](https://public.tableau.com/app/profile/jamil8209/viz/OfficeSupplyRevenuebyRegion/ProductLinePerformance#1)
 * Visualization of sales by region, products and sales representatives
