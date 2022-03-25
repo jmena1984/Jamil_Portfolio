@@ -48,4 +48,11 @@ Click on links for further details.
 
 # [Project 7: Story created with Tableau public: Project Overview](https://public.tableau.com/app/profile/jamil8209/viz/OfficeSupplyRevenuebyRegion/ProductLinePerformance#1)
 * Visualization of sales by region, products and sales representatives
+* The Central region is dominating sales with 57% of sales during this time period
+- Sales performance started out as unstable, but the last 4 months have seen a steady increase in sales
+- 5 salespeople are below the median sales rep performance for this period
+- 2 salespeople are significantly low in terms of sales
+- Binders and Pen Sets have sold the most over this time period
+- Desks and Binders have the highest selling prices
+- Desks have the highest selling price, but the lowest sales
 ![](/images/Tableau.png)
